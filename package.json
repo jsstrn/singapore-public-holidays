@@ -14,7 +14,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "luxon": "^1.22.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
